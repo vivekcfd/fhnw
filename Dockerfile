@@ -10,7 +10,6 @@ RUN apt-get update && apt-get install -y \
     gcc \
     g++ \
     libffi-dev \
-    libatlas-base-dev \
     liblapack-dev \
     libblas-dev \
     python3-dev \
@@ -27,3 +26,4 @@ EXPOSE 10000
 
 # Start Voila on Render's PORT
 CMD ["sh", "-c", "voila --port=$PORT --no-browser --Voila.ip=0.0.0.0 exp01_htc.ipynb"]
+
