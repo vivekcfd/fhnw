@@ -9,7 +9,6 @@ dependencies:
 - pandas=1.1.5
 - scipy
 - numpy
-- seaborn
 - lmfit
 - ipykernel
 - ipython
@@ -19,7 +18,5 @@ dependencies:
 - pip:
   - plotly-express
   - jupyterlab
-  - webencodings
-  - yfinance
-  - pip-system-certs
+  
 
