@@ -5,7 +5,7 @@
 We have two heated cyliders of radius, R, 0.01 and 0.3 m, respectively. The intial temeprature of both cylinders is 200°C and the ambient air is at 20°C and flows with a speed of 10 m/s around the cylinder.
 
 Here is a summary of the calculations for both scenarios before we start to evaluate the experimental data. The Biot number ( 𝐵𝑖
- ) calculation uses the standard characteristic length for a cylinder:  𝐿𝑐=𝐷/4.
+ ) calculation uses the standard characteristic length for a cylinder:  Lc=R/2.
  |Parameter|Symbol|Scenario 1 (R=0.01 m)|Scenario 2 (D=0.3 m)|unit|
 |:--------------------|:---------------:|:--------------:|:-------------:|:------------------|
 |Cylinder Diameter|$R$|0.01 |0.3  |m|
